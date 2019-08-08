@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "gnvN+KgoAbjeaM25albBme0ydlI=",
+			"path": "github.com/shamaton/msgpack",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		},
+		{
+			"checksumSHA1": "tU29ug86tWuWpflv/5nGE7b64Xc=",
+			"path": "github.com/shamaton/msgpack/def",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		},
+		{
+			"checksumSHA1": "WcieXxG8+beHnRtBv3ZJORSzU7g=",
+			"path": "github.com/shamaton/msgpack/ext",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		},
+		{
+			"checksumSHA1": "d4hwNw+QUJfebO4Pgus4+Dwo3ww=",
+			"path": "github.com/shamaton/msgpack/internal/common",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		},
+		{
+			"checksumSHA1": "sO54+pwM4Vmc5RPE5UGuW1w1j1U=",
+			"path": "github.com/shamaton/msgpack/internal/decoding",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		},
+		{
+			"checksumSHA1": "8SELND2ey4+fCBeOjKCuluCYRE4=",
+			"path": "github.com/shamaton/msgpack/internal/encoding",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		},
+		{
+			"checksumSHA1": "dfYZ95BZcHS7j5Y+C34ldfbTfIY=",
+			"path": "github.com/shamaton/msgpack/time",
+			"revision": "c3569e0903674ef417fbe353d216f125e6b8cfe8",
+			"revisionTime": "2019-07-12T15:07:00Z"
+		}
+	],
+	"rootPath": "socket.io-emitter"
+}

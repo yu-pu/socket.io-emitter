@@ -1,6 +1,10 @@
 # socket.io-emitter
 socket.io-emitter
 
+> 依赖编码库 github.com/shamaton/msgpack 
+> 测试socket.io version-2 以上无问题
+
+
 ### example
 
 ```
