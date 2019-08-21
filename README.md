@@ -4,7 +4,14 @@ socket.io-emitter
 > 依赖编码库 github.com/shamaton/msgpack 
 > 测试socket.io version-2 以上无问题
 
+使用方式
 
+1. 获取包
+```
+go get github.com/yu-pu/socket.io-emitter
+```
+2. 实现EmitterRedis接口，自由选择redis库实现Publish方法，参考example，https://github.com/yu-pu/socket.io-emitter/blob/master/example/test.go
+ 
 ### example
 
 ```
